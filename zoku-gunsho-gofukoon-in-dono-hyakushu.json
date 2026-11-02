@@ -1900,6 +1900,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 11,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-gofukoon-in-dono-hyakushu",
   "work": "後普光園院殿百首和歌",
@@ -1912,7 +1916,7 @@
   "blocks": 11,
   "chars": 4169,
   "poems": 114,
-  "yaku": 0,
+  "yaku": 11,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T03:37:23+09:00"
